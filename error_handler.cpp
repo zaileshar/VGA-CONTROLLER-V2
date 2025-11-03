@@ -6,3 +6,4 @@ public:
         std::cout << "Error_handler initialized." << std::endl;
     }
 };
+// TODO: Optimize this block in future refactor
