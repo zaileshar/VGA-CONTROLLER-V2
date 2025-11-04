@@ -8,3 +8,4 @@ module vga_tb (
         else out <= ~out;
     end
 endmodule
+// Memory layout adjusted for stability
