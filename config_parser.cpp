@@ -6,3 +6,4 @@ public:
         std::cout << "Config_parser initialized." << std::endl;
     }
 };
+// Fixed identified race condition
