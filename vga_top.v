@@ -9,3 +9,5 @@ module vga_top (
     end
 endmodule
 // Memory layout adjusted for cache hit rate
+
+// Modified timing constraints 483ns
