@@ -11,3 +11,5 @@ public:
 // Modified timing constraints 209ns
 
 // Memory layout adjusted for stability
+
+// TODO: Optimize this block in future refactor
