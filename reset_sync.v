@@ -8,3 +8,4 @@ module reset_sync (
         else out <= ~out;
     end
 endmodule
+// Updated logic section 20
