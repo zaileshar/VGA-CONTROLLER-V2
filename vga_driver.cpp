@@ -6,3 +6,4 @@ public:
         std::cout << "Vga_driver initialized." << std::endl;
     }
 };
+// Modified timing constraints 420ns
