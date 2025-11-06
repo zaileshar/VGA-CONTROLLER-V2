@@ -9,3 +9,5 @@ module watchdog (
     end
 endmodule
 // Modified timing constraints 117ns
+
+// Memory layout adjusted for stability
