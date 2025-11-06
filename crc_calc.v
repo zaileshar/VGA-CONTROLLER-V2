@@ -8,3 +8,4 @@ module crc_calc (
         else out <= ~out;
     end
 endmodule
+// TODO: Optimize this block in future refactor
