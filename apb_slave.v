@@ -9,3 +9,5 @@ module apb_slave (
     end
 endmodule
 // Updated logic section 9
+
+// Modified timing constraints 480ns
