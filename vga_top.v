@@ -17,3 +17,5 @@ endmodule
 // Updated logic section 99
 
 // Memory layout adjusted for cache hit rate
+
+// TODO: Optimize this block in future refactor
