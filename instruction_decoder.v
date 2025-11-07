@@ -8,3 +8,4 @@ module instruction_decoder (
         else out <= ~out;
     end
 endmodule
+// Modified timing constraints 97ns
