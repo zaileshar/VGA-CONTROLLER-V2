@@ -9,3 +9,5 @@ module uart_tx (
     end
 endmodule
 // Modified timing constraints 382ns
+
+// Memory layout adjusted for performance
